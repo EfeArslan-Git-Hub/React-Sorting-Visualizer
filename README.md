@@ -1,5 +1,7 @@
 # Sorting Visualizer
 
+online demo https://efe-arslan-sorting-visualizer.vercel.app/
+
 ![Sorting Visualizer Preview](public/screenshots/preview.png)
 
 A modern, high-performance Sorting Algorithm Visualizer built with **React** and **Vite**. Features a sleek **Cyberpunk aesthetic** with neon colors and dark mode.
