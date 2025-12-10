@@ -229,6 +229,14 @@ export default function SortingVisualizer() {
 
     return (
         <div className={styles.visualizerContainer}>
+            <a
+                href="https://efe-arslan-portfolio.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.portfolioButton}
+            >
+                Portfolio
+            </a>
             <div className={styles.arrayContainer} ref={containerRef}>
                 {array.map((value, idx) => (
                     <div
